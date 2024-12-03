@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+-   We added the translate function to the preview arguments. This can be used to translate texts show in the widget preview.
+
+### Changed
+
+-   The renderMode property in the preview arguments is no longer considered optional.
+
 ## [10.16.0] - 2024-10-31
 
 ### Added
